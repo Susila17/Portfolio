@@ -4,10 +4,10 @@
 body{
     background: linear-gradient(
 
-#37a9d9, 
-#3695ef
+#050bb5, 
+#dd2f2f
 ,
-#45c5fc);
+#980c0c);
 }
 
 
@@ -476,4 +476,5 @@ nav {
       background-color: rgb(226, 225, 223);
       border-radius: 10px;
 }
+
 
